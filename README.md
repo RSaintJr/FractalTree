@@ -1,4 +1,6 @@
 # FractalTree
 Drawing a fractal tree made in the Java language.
 
-![tree](https://github.com/RSaintJr/FractalTree/assets/106887493/371369c9-f744-4bbb-bbe4-4c86d0d9ef66)
+<div align="center">
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20191031201641/MathFractalTree.png" align="center" style="width: 100%" />
+</div>
